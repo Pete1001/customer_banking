@@ -1,6 +1,4 @@
-# customer_banking
-Customer Banking Application
-readme_content = """
+# Customer Banking Application
 
 ## Overview
 
