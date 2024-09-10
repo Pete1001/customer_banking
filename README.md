@@ -39,9 +39,7 @@ This file serves as the main entry point of the program. It:
 
 1. Ensure all files are in the same directory.
 2. Run the program by executing `customer_banking.py`:
-    ```bash
-    python customer_banking.py
-    ```
+    `python customer_banking.py`
 3. The program will prompt you for the following inputs for both savings and CD accounts:
     - Initial balance
     - Annual interest rate (APR)
